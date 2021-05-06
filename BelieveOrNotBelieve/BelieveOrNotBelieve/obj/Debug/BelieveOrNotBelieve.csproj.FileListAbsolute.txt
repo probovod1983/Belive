@@ -1,0 +1,5 @@
+F:\Учеба\Основы C#\Занятие 8\Домашка\Задача 2\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csprojAssemblyReference.cache
+F:\Учеба\Основы C#\Занятие 8\Домашка\Задача 2\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Form1.resources
+F:\Учеба\Основы C#\Занятие 8\Домашка\Задача 2\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.Properties.Resources.resources
+F:\Учеба\Основы C#\Занятие 8\Домашка\Задача 2\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.GenerateResource.cache
+F:\Учеба\Основы C#\Занятие 8\Домашка\Задача 2\BelieveOrNotBelieve\BelieveOrNotBelieve\obj\Debug\BelieveOrNotBelieve.csproj.CoreCompileInputs.cache
